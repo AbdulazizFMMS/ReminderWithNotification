@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">اكستب عادة جديدة</string>
+    <string name="no_cardetails">اضغط على زر الاضافة بالاسفل لإنشاء مذكرة</string>
+    <string name="title_activity_add_reminder">اضف مذكرة</string>
+    <string name="title_activity_edit_reminder">تعديل المذكرة</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">اكتب شيئا ستفعله</string>
+    <string name="details">تفاصيل</string>
+    <string name="date">التاريخ</string>
+    <string name="time">الوقت</string>
+    <string name="repeat">التكرار</string>
+    <string name="repeat_off">معطّل</string>
+    <string name="repeat_no">مرات التكرار </string>
+    <string name="repeat_type">نوع التكرار</string>
+
+    <string name="action_discard_reminder">حذف المذكرة</string>
+    <string name="action_save_reminder">حفظ المذكرة</string>
+
+    <string name="editor_activity_title_new_reminder">اضف تفاصيل المذكرة</string>
+    <string name="editor_activity_title_edit_reminder">حدّث المذكرة</string>
+    <string name="unsaved_changes_dialog_msg">هل تريد تجاهل التغييرات ؟</string>
+    <string name="discard">حذف</string>
+
+    <string name="keep_editing">الرجوع للتعديل</string>
+    <string name="delete_dialog_msg">حذف هذه المذكرة ؟</string>
+
+    <string name="delete">حذف</string>
+
+    <string name="cancel">الغاء</string>
+    <string name="editor_delete_reminder_successful">تم حذف المذكرة</string>
+
+    <string name="editor_delete_reminder_failed">حدث خطأ اثناء حذف المذكرة</string>
+
+    <string name="editor_insert_reminder_successful">تم حفظ المذكرة</string>
+
+    <string name="editor_insert_reminder_failed">خطأ اثناء حفظ المذكرة</string>
+
+    <string name="editor_update_reminder_successful">تم تحديث المذكرة</string>
+
+    <string name="editor_update_reminder_failed">خطأ اثناء تحديث المذكرة</string>
+
+    <string name="reminder_title">المذكّرة</string>
+</resources>
